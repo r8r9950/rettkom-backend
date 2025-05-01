@@ -1,0 +1,16 @@
+{
+    "name": "rettkom-backend",
+    "version": "1.0.0",
+    "description": "Backend para el sistema comparador automático de licitaciones (MOP, Mercado Público y SERVIU)",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "axios": "^1.6.7",
+      "express": "^4.18.4",
+      "mongodb": "^6.3.0"
+    }
+  }
+  
+
